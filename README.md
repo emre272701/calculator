@@ -43,6 +43,3 @@ Enter the first number: 45
 Enter the second number: 15
 Result: 60.0
 ```
-
-## Requirements
-- Python 3.x
